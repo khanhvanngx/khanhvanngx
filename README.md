@@ -1,17 +1,8 @@
 ### Hi there 👋
+I'm Khanh Van, thrilled to step into the world of Data Analysis as a fresher. Beyond that, I am also a Graphic Design for 2 years.
 
-<!--
-Introduction
-Hello! I'm [Your Name], a passionate [Your Role or Field]. I thrive on [Main Area of Interest or Expertise], constantly seeking opportunities to learn and grow in this domain.
+I'm diving into the realm of Data Analysis, eagerly soaking up knowledge and practical skills to contribute meaningfully to this field. Apart from numbers, I express my creativity through Graphic Design, where I craft visual experiences and bring ideas to life.
 
-Experience
-I bring experience in [Describe Work Experience, Projects, or relevant background]. I aim to share my knowledge here on GitHub and learn from the community.
+My GitHub hosts a blend of my data analysis projects and design creations, showcasing my endeavors in both fields.
 
-Projects
-On GitHub, you'll find the projects I'm working on, including [List of Projects, Repositories, and brief descriptions].
-
-Contact
-For collaboration or inquiries, feel free to reach out via email at [Your Email Address].
-
-
--->
+For collaboration or inquiries, feel free to reach out via email at khanhvannguyen.work@gmail.com
